@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/7M3YL0yhBYsnIMfRjj/giphy.gif) ![MasterHead](https://media.giphy.com/media/7M3YL0yhBYsnIMfRjj/giphy.gif)
+<center>![MasterHead](https://media.giphy.com/media/7M3YL0yhBYsnIMfRjj/giphy.gif) ![MasterHead](https://media.giphy.com/media/7M3YL0yhBYsnIMfRjj/giphy.gif)</center>
 <h1 align="center">Hi 👋, I'm Barneet Panda</h1>
 <h3 align="center">A "NEET" Fullstack Webdevloper</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
@@ -31,5 +31,6 @@
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaanbarneet&show_icons=true&locale=en&layout=compact" alt="shaanbarneet" /></p>
 </div>
+<br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaanbarneet&show_icons=true&locale=en" alt="shaanbarneet" /></p>

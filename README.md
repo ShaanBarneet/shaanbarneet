@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/7M3YL0yhBYsnIMfRjj/giphy.gif) ![MasterHead](https://media.giphy.com/media/7M3YL0yhBYsnIMfRjj/giphy.gif)
+![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ5ZDZ2anoyeG91NWVnM2xhcWhwc3lyN3hyajRubnlvOGN2ajdxYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bJ4TVNYNUympPgcpem/giphy.gif)
 <h1 align="center">Hi 👋, I'm Barneet Panda</h1>
 <h3 align="center">A "NEET" Fullstack Webdevloper</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
